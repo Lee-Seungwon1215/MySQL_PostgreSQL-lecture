@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+.mypy_cache/
+MySQL/mysql_results.md
+PostgreSQL/postgre_results.md

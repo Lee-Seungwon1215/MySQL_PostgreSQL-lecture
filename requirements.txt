@@ -1,0 +1,4 @@
+cryptography
+pqcrypto
+pymysql
+psycopg2-binary
